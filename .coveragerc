@@ -1,0 +1,5 @@
+[run]
+include = simple_file_uploader/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
